@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Main page
-tagline: Supporting tagline
+title: "Erik Schnetter's Blog"
+tagline: Relativistic astrophysics, high performance computing, and software that connects them
 ---
 {% include JB/setup %}
 
